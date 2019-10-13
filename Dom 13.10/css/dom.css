@@ -1,0 +1,19 @@
+table tr th td {border: solid 1px silver;
+border-collapse: collapse;
+padding: 10px;
+text-align: center;
+}
+th {background-color: white;
+color: black
+}
+img {width: 100px;
+height: 100px
+}
+th.blue{background-color: blue}
+th.yellow{background-color: yellow}
+th.green{background-color: green;
+color: red}
+th.lista2{background-color: grey;
+color: red;}
+
+ol.lista{list-style-type: lower-alpha;}
